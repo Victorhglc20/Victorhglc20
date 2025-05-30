@@ -20,7 +20,7 @@
 [![DIO](https://img.shields.io/badge/DIO-000080?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.dio.me/users/victorhugolc_2611)
 
 
-![Victor Status GitHub](https://github-readme-stats.vercel.app/api?username=Victorhglc20o&show_icons=true&theme=tokyonight)
+![Victor Status GitHub](https://github-readme-stats.vercel.app/api?username=Victorhglc20&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victorhglc20&layout=compact&theme=dark)
   
