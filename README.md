@@ -1,6 +1,6 @@
 # Victor Hugo🚀🚀🚀🚀🚀🚀🚀
 
-### Conecte-se comigo
+### Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-lopes-carlos-4b9175352/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:victorhugolc.2611@gmail.com)
 
